@@ -1,0 +1,19 @@
+# ninja log v6
+8	286	7661995946363284	CMakeFiles/Lab01.dir/Lab01/DTFecha.cpp.obj	b1770d79678819fc
+6	579	7661997888441127	CMakeFiles/Lab01.dir/Lab01/main.cpp.obj	c66845909e585aaf
+4	303	7661995946318291	CMakeFiles/Lab01.dir/Lab01/ChatGPT.cpp.obj	f24b3a62e9e3565a
+23	423	7661995946508303	CMakeFiles/Lab01.dir/Lab01/Libro.cpp.obj	871b60597e1e47c0
+12	311	7661995946393357	CMakeFiles/Lab01.dir/Lab01/DTInfoEstudiante.cpp.obj	228400db7c66bf2b
+30	348	7661995946583333	CMakeFiles/Lab01.dir/Lab01/PaginaWeb.cpp.obj	638ea88d6b7733b9
+19	407	7661995946468294	CMakeFiles/Lab01.dir/Lab01/Informacion.cpp.obj	1e36182d61b820b6
+15	470	7661995946428335	CMakeFiles/Lab01.dir/Lab01/Estudiante.cpp.obj	eb366f8eca9e4853
+579	764	7661997894171802	Lab01.exe	c2052e43d55ceff4
+10	773	7662139309210254	CMakeFiles/Lab01.dir/Lab01/DTFecha.cpp.obj	6ef3173c44c07b4d
+13	780	7662139309250260	CMakeFiles/Lab01.dir/Lab01/DTInfoEstudiante.cpp.obj	59251334f6a8ea09
+32	782	7662139309435100	CMakeFiles/Lab01.dir/Lab01/PaginaWeb.cpp.obj	cef02a7eaffb5b4
+5	784	7662139309160239	CMakeFiles/Lab01.dir/Lab01/ChatGPT.cpp.obj	352dbc11dd8d89dd
+24	846	7662139309355089	CMakeFiles/Lab01.dir/Lab01/Libro.cpp.obj	60f97122abe1533a
+20	847	7662139309325167	CMakeFiles/Lab01.dir/Lab01/Informacion.cpp.obj	38f6624e8153f76
+16	914	7662139309280266	CMakeFiles/Lab01.dir/Lab01/Estudiante.cpp.obj	50db0cf575f2225b
+28	1382	7662139309395098	CMakeFiles/Lab01.dir/Lab01/main.cpp.obj	1b65befdd989df37
+1383	1710	7662139322944096	Lab01.exe	382d4035552ce5ae
