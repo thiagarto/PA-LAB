@@ -16,7 +16,7 @@ void Estudiante::agregarInformacion(Informacion* info) {
     informaciones.insert(info);
     info->agregarEstudiante(this);
 }
-5
+
 
 
 set<string> Estudiante::listarInfo(DTFecha desde) {
